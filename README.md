@@ -1,2 +1,2 @@
 # temperature-checker
-[Live Link] (https://rijwanulalam.github.io/temperature-checker/index.html)
+[Live Link](https://rijwanulalam.github.io/temperature-checker/index.html)
